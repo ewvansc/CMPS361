@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #1e1e2f;
+    color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+  }
+  .container { max-width: 800px; margin: auto; }
+  h1 { color: #7c4dff; }
+  a.btn, button {
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 5px;
+    background: #7c4dff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  a.btn:hover, button:hover { background: #5f3dff; }
+  table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+  th, td { padding: 10px; border-bottom: 1px solid #444; }
+  
